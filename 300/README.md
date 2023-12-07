@@ -4,7 +4,9 @@ For support, visit [Help & Support](https://support.konnected.io) at Konnected.
 
 WE ARE HERE ...
 
+## 100 - Connecting via WiFi
 
+See [Connecting to Your Network](https://support.konnected.io/connecting-to-your-network).
 
 
 ## 999 - Connect Konnected Alarm Panel Pro with Home Assistant
@@ -20,6 +22,7 @@ Pre-requisites:
 1) Have your Konnected Alarm Panel Pro powered up with the supplied Power Supply (12 Volt DC).
 2) Have an Ethernet cable connected between your Router (connected to the Internet) and your Konnected Alarm Panel Pro; a blue light will be pulsing.
 3) Connect a from your computer (WIndows or Mac) via its USB port a mini USB cable to the Konnected Alam Panel Pro mini USB port.
+4) Have setup WiFi connectivity previously as a backup scenario if Ethernet connectivity fails.
 
 Browse for https://install.konnected.io/esphome
 
