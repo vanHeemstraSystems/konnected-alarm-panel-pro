@@ -65,6 +65,20 @@ Logs & Console
 
 Click on ```Install Konnected Alarm Panel for ESPHome (RTL8201)```
 
+You will be asked to confirm as follows:
+
+```
+Confirm Installation
+
+Do you want to install Konnected Alarm Panel for ESPHome (RTL8201) 0.3.2?
+
+All data on the device will be erased.
+
+Back     Install
+```
+
+Click on ```Install```
+
 
 
 
