@@ -42,10 +42,10 @@ If you didn't select a port because you didn't see your device listed, try the f
 2. Most devices have a tiny light when it is powered on. If yours has one, make sure it is on.
 3. Make sure that the USB cable you use can be used for data and is not a power-only cable.
 4. Make sure you have the right drivers installed. Below are the drivers for common chips used in ESP devices:
--- CP2102 drivers: [Windows & Mac](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
--- CH342, CH343, CH9102 drivers: [Windows](https://www.wch.cn/downloads/CH343SER_ZIP.html), [Mac](https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html)
+--- CP2102 drivers: [Windows & Mac](https://www.silabs.com/developers/usb-to-uart-bridge-vcp-drivers)
+--- CH342, CH343, CH9102 drivers: [Windows](https://www.wch.cn/downloads/CH343SER_ZIP.html), [Mac](https://www.wch.cn/downloads/CH34XSER_MAC_ZIP.html)
 (download via blue button with  icon)
--- CH340, CH341 drivers: [Windows](https://www.wch.cn/downloads/CH341SER_ZIP.html), [Mac](https://www.wch.cn/downloads/CH341SER_MAC_ZIP.html)
+--- CH340, CH341 drivers: [Windows](https://www.wch.cn/downloads/CH341SER_ZIP.html), [Mac](https://www.wch.cn/downloads/CH341SER_MAC_ZIP.html)
 (download via blue button with  icon)
 
 CANCEL     TRY AGAIN
