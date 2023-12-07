@@ -79,6 +79,18 @@ Back     Install
 
 Click on ```Install```
 
+In case a failure occured you will see:
+
+```
+Installation failed
+
+Failed to initialize. Try resetting your device or holding the BOOT button while clicking INSTALL.
+
+BACK
+```
+
+We will hold down the BOOT button in the Konnected Alarm Panel Pro (labelled REBOOT) while clicking INSTALL again.
+
 
 
 
