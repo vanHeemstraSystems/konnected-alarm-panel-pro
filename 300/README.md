@@ -1,3 +1,11 @@
 # 300 - Building Our Application
 
 WE ARE HERE ...
+
+
+
+
+## 999 - Connect Konnected Alarm Panel Pro with Home Assistant
+
+Based on "Add a Konnected Device to Home Assistant with ESPHome" at https://support.konnected.io/add-a-konnected-device-to-home-assistant-with-esphome
+
