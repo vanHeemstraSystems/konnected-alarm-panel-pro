@@ -11,6 +11,6 @@
 
 Konnected Alarm Panel Pro
 
-
+![Konnected_Alarm_Panel_Accessory_Kit](https://github.com/vanHeemstraSystems/konnected-alarm-panel-pro/assets/1499433/89d958d5-340b-4579-af67-3c6059313efa)
 
 Konnected Alarm Panel Accessory Kit
