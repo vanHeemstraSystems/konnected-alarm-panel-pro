@@ -1,5 +1,7 @@
 # 300 - Building Our Application
 
+For support, visit [Help & Support](https://support.konnected.io) at Konnected.
+
 WE ARE HERE ...
 
 
