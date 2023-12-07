@@ -53,6 +53,20 @@ CANCEL     TRY AGAIN
 
 Follow above instructions, then try again.
 
+After a successful install on Mac of the CP2102 drivers, when trying again you will be shown a list of connected devices (in our casse one). Choose the one and you will be prompted again as:
+
+```
+Device Dashboard
+
+Install Konnected Alarm Panel for ESPHome (RTL8201)
+
+Logs & Console
+```
+
+Click on ```Install Konnected Alarm Panel for ESPHome (RTL8201)```
+
+
+
 
 MORE ...
 
