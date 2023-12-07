@@ -53,7 +53,7 @@ CANCEL     TRY AGAIN
 
 Follow above instructions, then try again.
 
-After a successful install on Mac of the CP2102 drivers, when trying again you will be shown a list of connected devices (in our casse one). Choose the one and you will be prompted again as:
+After a successful install on Mac of the CP2102 drivers, when trying again you will be shown a list of connected devices (in our case: ```cu.Bluetooth-Incoming-Port -- Paired```). Choose the one and you will be prompted again as:
 
 ```
 Device Dashboard
