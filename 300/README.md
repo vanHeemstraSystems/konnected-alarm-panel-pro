@@ -58,6 +58,8 @@ If you didn't select a port because you didn't see your device listed, try the f
 CANCEL     TRY AGAIN
 ```
 
+**TIP**: [How can I tell charge-only USB cables from USB data cables?](https://electronics.stackexchange.com/questions/140225/how-can-i-tell-charge-only-usb-cables-from-usb-data-cables)
+
 Follow above instructions, then try again.
 
 After a successful install on Mac of the CP2102 drivers, when trying again you will be shown a list of connected devices (in our case: ```cu.Bluetooth-Incoming-Port -- Paired```). Choose the one and you will be prompted again as:
