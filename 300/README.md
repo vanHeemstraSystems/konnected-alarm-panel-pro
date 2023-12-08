@@ -101,7 +101,7 @@ BACK
 We will hold down the BOOT button in the Konnected Alarm Panel Pro (labelled REBOOT) while clicking INSTALL again.
 
 
-
+**TIP**: [Unable to manually update firmware (Konnected Alarm Pro)](https://community.konnected.io/t/unable-to-manually-update-firmware-konnected-alarm-pro/25480)
 
 MORE ...
 
