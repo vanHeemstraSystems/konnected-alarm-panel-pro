@@ -11,6 +11,8 @@ See [Connecting to Your Network](https://support.konnected.io/connecting-to-your
 
 ## 999 - Connect Konnected Alarm Panel Pro with Home Assistant
 
+Based on "A minimalistic tutorial on Home Assistant - Konnected Alarm board integration" at https://github.com/scarpazza/home-assistant-konnected-tutorial
+
 Based on "Add a Konnected Device to Home Assistant with ESPHome" at https://support.konnected.io/add-a-konnected-device-to-home-assistant-with-esphome
 
 **New in 2023!** Konnected now provides pre-built ESPHome firmware for all Konnected products. We recommend that new Home Assistant users follow these steps to get started quickly with Konnected and Home Assistant powered by ESPHome.
