@@ -3,6 +3,8 @@ konnected-alarm-panel-pro
 
 Based on "Konnected Alarm Panel Pro alarm system conversion kit installation demo with SmartThings" at https://www.youtube.com/watch?v=VnSjIiIqPus
 
+Based on "A minimalistic tutorial on Home Assistant - Konnected Alarm board integration" at https://github.com/scarpazza/home-assistant-konnected-tutorial
+
 ## 100 - Introduction
 
 See [README.md](./100/README.md)
